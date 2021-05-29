@@ -2,7 +2,7 @@
 
 [533 milyon Facebook kullanıcısının telefon numaraları ve kişisel verileri sızdırıldı.](https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4)
 
-[Facebook kullanıcıları sızıntı hakkında bilgilendirmeyi düşünmüyor.](https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY)
+[Facebook, kullanıcıları sızıntı hakkında bilgilendirmeyi düşünmüyor.](https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY)
 
 [Ransomware grupları üniversiteleri de hedeflemeye başladı.](https://www.zdnet.com/article/ransomware-group-targets-universities-of-maryland-california-in-new-data-leaks/)
 
@@ -36,9 +36,9 @@
 
 [Whatsapp'ta bulunan açıkla herhangi bir kullanıcının hesabını deaktive edeibliyorsunuz.](https://www.forbes.com/sites/zakdoffman/2021/04/10/shock-new-warning-for-millions-of-whatsapp-users-on-apple-iphone-and-google-android-phones/?sh=51f02d807585)
 
-[Counter Strike'da bulunan bir bug sayesinde kullanıcının bilgisayarına erişim sağlanabiliyor.](https://www.vice.com/en/article/dyvgej/counter-strike-bug-allows-hackers-to-take-over-a-pc-with-a-steam-invite)
+[Counter Strike'da bulunan bir yazılım hatası nedeniyle kullanıcının bilgisayarına erişim sağlanabiliyor.](https://www.vice.com/en/article/dyvgej/counter-strike-bug-allows-hackers-to-take-over-a-pc-with-a-steam-invite)
 
-## Siyasi
+# Siyasi
 
 [Yüz tanıma teknolojisi Virginia'da oy birliğiyle yasaklanıyor.](https://www.wtvr.com/news/local-news/virginia-lawmakers-unanimously-approve-bill-that-bans-facial-recognition-technology)
 
