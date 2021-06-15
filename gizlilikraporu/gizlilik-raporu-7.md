@@ -82,7 +82,7 @@
 
 [Güvenlik araştırmacıları Airtagleri jailbreak atmayı başardı.](https://arstechnica.com/information-technology/2021/05/security-researcher-successfully-jailbreaks-an-apple-airtag/)
 
-[Bir araştırma taraycılar arası izlenme yapılabileceğini gösteriyor.](https://arstechnica.com/information-technology/2021/05/security-researcher-successfully-jailbreaks-an-apple-airtag/)
+[Bir araştırma taraycılar arası izlenme yapılabileceğini gösteriyor.](https://fingerprintjs.com/blog/external-protocol-flooding/)
 
 [Elektrikli araçları şarj eden yol denemesi dünyada ilk olarak İtalya'da başlayacak.](https://interestingengineering.com/worlds-first-ev-charging-highway-trial-to-start-in-italy)
 
